@@ -20,7 +20,6 @@ documentation and pre-compiled binaries.
 
 Building ChirpStack requires:
 
-* [Nix](https://nixos.org/download.html) (recommended) and
 * [Docker](https://www.docker.com/)
 
 #### Nix
