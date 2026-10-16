@@ -159,7 +159,7 @@
 
 # Development and testing
 [dev-dependencies]
-  httpmock = "0.7.0"
+  httpmock = "0.8.3"
   bytes = "1.8"
   dotenv = "0.15"
 
